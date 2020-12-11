@@ -1,0 +1,8 @@
+version: 1.0
+name: killmeplz
+main: net.intercraftmc.net
+author: tomerthegreat
+commands:
+  kill:
+    description: kills the person who runs the command
+    aliases: [suicide]
